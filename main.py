@@ -1,6 +1,5 @@
 from flask import Flask
-from skribble_generator import generator
-import ssl
+from skribble_generator import generator``
 
 # TODO - alternative
 ### SET THIS!
