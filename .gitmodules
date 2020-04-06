@@ -1,0 +1,3 @@
+[submodule "skribble_generator"]
+	path = skribble_generator
+	url = https://github.com/cosmin-popescu/skribble-generator.git
